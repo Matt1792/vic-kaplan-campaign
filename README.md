@@ -1,5 +1,3 @@
-# vic-kaplan-campaign
-AP Gov Project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,13 +42,13 @@ AP Gov Project
           <img src="https://whyy.org/wp-content/uploads/2025/10/vic_kaplan_libertarian.jpg" alt="Vic Kaplan" class="rounded-lg shadow-lg w-full" />
         </div>
         <div class="md:w-2/3 md:pl-8">
-          <p class="text-lg mb-4">Vic Kaplan is a lifelong New Jerseyan, born and raised in Edison. Since his childhood, Vic learned the value of community, hard work, and civic engagement — his mother was a public‑school teacher and his father owned a small family‑run business. He graduated from Rutgers University with a degree in Public Policy, then earned his MBA from Seton Hall University, focusing on sustainable business practices.</p>
-          <p class="text-lg mb-4">Before entering public service, Vic spent a decade working in the renewable energy sector, helping to bring solar and wind projects to underserved communities in New Jersey. He then launched a small consulting firm that advised local governments on infrastructure modernization and efficient service delivery — equipping him with real‑world experience in budgeting, energy policy, and local governance.</p>
-          <p class="text-lg mb-4">In 2015, he was elected to the New Jersey General Assembly where he served two terms, eventually becoming Chair of the Assembly Committee on Energy and Economic Growth. During his legislative tenure he pushed bipartisan reforms: property‑tax relief, school‑funding equity, and the transition to clean energy. Colleagues describe him as someone who “listens first, acts second, and builds consensus along the way.”</p>
-          <p class="text-lg">Vic lives in Princeton with his wife Elena, a local school principal, and their two children, Lily and Aidan. Outside the office he coaches youth soccer, volunteers with Habitat for Humanity, and runs in the New Jersey Shore Marathon each spring. His approach to leadership is deeply rooted in family, service, and the belief that innovation and fairness go hand in hand.</p>
+          <p class="text-lg mb-4">Vic Kaplan is a lifelong New Jerseyan, born and raised in Edison. Since his childhood, Vic learned the value of community, hard work, and civic engagement. His mother was a public‑school teacher and his father owned a small family‑run business. He graduated from Rutgers University with a degree in Public Policy, then earned his MBA from Seton Hall University, focusing on sustainable business practices.</p>
+          <p class="text-lg mb-4">Before entering public service, Vic spent a decade working in the renewable energy sector, helping to bring solar and wind projects to underserved communities in New Jersey. He then launched a small consulting firm that advised local governments on infrastructure modernization, qualifying him with real‑world experience in budgeting, energy policy, and local governance.</p>
+          <p class="text-lg mb-4">In 2015, he was elected to the New Jersey General Assembly where he served two terms, eventually becoming Chair of the Assembly Committee on Energy and Economic Growth. During his legislative tenure, he pushed bipartisan reforms such as property‑tax relief, school‑funding equity, and the transition to clean energy.</p>
+          <p class="text-lg">Vic lives in Princeton with his wife Elena, a local school principal, and their two children, Lily and Aidan. Outside the office he coaches youth soccer, volunteers with Habitat for Humanity, and runs in the New Jersey Shore Marathon each spring. His approach to leadership is rooted in family, service, and fairness.</p>
         </div>
       </div>
-      <p class="text-lg">With Vic, you’ll find a candidate who mixes proven experience with a forward‑looking vision — committed to ensuring every New Jersey resident has access to opportunity, security, and a fair shot at the future.</p>
+      <p class="text-lg">With Vic, you’ll find a candidate who mixes experience with a forward‑looking vision and is committed to ensuring every New Jersey resident has access to opportunity, security, and equal opportunity in the future.</p>
     </div>
   </section>
 
@@ -64,7 +62,7 @@ AP Gov Project
         </div>
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">Opioid Epidemic</h4>
-          <p class="text-lg">He advocates for treatment over incarceration, investing in rehabilitation programs and mental health services to reduce addiction and recidivism.</p>
+          <p class="text-lg">He advocates for treatment over incarceration, investing in rehabilitation programs and mental health services to reduce addiction and re-offenders.</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">Property Taxes</h4>
@@ -76,11 +74,11 @@ AP Gov Project
         </div>
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">Public School Funding</h4>
-          <p class="text-lg">Kaplan backs fair funding formulas to ensure all districts — urban, suburban, and rural — receive equitable resources for students and teachers alike.</p>
+          <p class="text-lg">Kaplan backs fair funding to ensure all districts; Urban, suburban, and rural will all receive equitable resources for students and teachers alike.</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">Affordable Housing</h4>
-          <p class="text-lg">He supports zoning reform and state investment in mixed-income developments, aiming to make housing attainable for working- and middle-class families.</p>
+          <p class="text-lg">He supports zoning reform and state investment in mixed-income developments, aiming to make housing attainable for working and middle-class families.</p>
         </div>
       </div>
     </div>
@@ -90,13 +88,13 @@ AP Gov Project
     <div class="container mx-auto px-6 text-center">
       <h3 class="text-3xl font-bold text-primary mb-6">Campaign Brochure</h3>
       <p class="text-xl italic mb-6">“New Jersey First: Freedom, Fairness, and a Brighter Future.”</p>
-      <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60" alt="Campaign Visual" class="mx-auto rounded-lg shadow-md mb-6">
+      <img src="https://static.wixstatic.com/media/56b316_f191b88a176441449727001d8d10a8c2~mv2.png/v1/fill/w_370,h_303,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/20240814_153035(0)_edited.png" alt="Campaign Visual" class="mx-auto rounded-lg shadow-md mb-6">
       <div class="max-w-3xl mx-auto text-left">
-        <p class="text-lg mb-4"><strong>Personal Characteristics:</strong> Realistic, empathetic, and solutions-driven. Kaplan is known for his ability to bring diverse voices together and translate good ideas into practical policies.</p>
+        <p class="text-lg mb-4"><strong>Personal Characteristics:</strong> Realistic, empathetic, and solutions-driven. Vic is known for his ability to bring diverse voices together and translate good ideas into practical policies.</p>
         <p class="text-lg mb-4"><strong>Professional Qualifications:</strong> Former Assemblyman, energy policy expert, and small business owner with a proven track record in local and state governance.</p>
         <p class="text-lg mb-4"><strong>Stance on Key Issues:</strong> Committed to lowering property taxes, investing in renewable energy, and improving education funding fairness across districts.</p>
-        <p class="text-lg mb-4"><strong>Campaign Song:</strong> “Beautiful Day” by U2 — symbolizing optimism, resilience, and a shared hope for progress in New Jersey.</p>
-        <p class="text-lg"><strong>Why This Song:</strong> Its uplifting tone and message of unity match Kaplan’s vision of moving New Jersey forward together — celebrating small victories and big change alike.</p>
+        <p class="text-lg mb-4"><strong>Campaign Song:</strong> “Beautiful Day” by U2; This song shows optimism, strength, and a hope for progress in New Jersey.</p>
+        <p class="text-lg"><strong>Why This Song:</strong> Its uplifting tone and message of unity match Kaplan’s vision of moving New Jersey forward together.</p>
       </div>
     </div>
   </section>
@@ -108,11 +106,11 @@ AP Gov Project
       <div class="grid md:grid-cols-2 gap-8">
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">Old Media</h4>
-          <p class="text-lg">Kaplan will use newspaper editorials, radio interviews, and TV ads across local networks like NJTV and regional radio. These platforms reach older, consistent voters who value policy discussion and trust established media sources.</p>
+          <p class="text-lg">Vic will use newspaper editorials, radio interviews, and TV ads across local networks like NJTV and regional radio. These platforms reach older voters who value and trust established media sources.</p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow">
           <h4 class="text-xl font-semibold mb-2">New Media</h4>
-          <p class="text-lg">Social media efforts will center on YouTube ads, TikToks, and X (Twitter) updates to reach younger and independent audiences. Livestream Q&As on Facebook and Instagram will offer interactive engagement, while Google and Meta ads will boost online visibility.</p>
+          <p class="text-lg">Social media efforts will center on YouTube ads, TikToks, and X (Twitter) updates to reach younger audiences. Livestream Q&As on Facebook and Instagram will offer interactive engagement, while Google ads will improve online visibility.</p>
         </div>
       </div>
     </div>
@@ -123,7 +121,7 @@ AP Gov Project
       <h3 class="text-3xl font-bold text-primary mb-6">Endorsements & Supporters</h3>
       <div class="grid md:grid-cols-2 gap-8">
         <div><h4 class="text-xl font-semibold mb-2">Organizations</h4><ul class="list-disc pl-6"><li>New Jersey Education Association (NJEA)</li><li>Clean Energy Future PAC</li><li>Planned Parenthood Action Fund</li><li>AFL‑CIO New Jersey Chapter</li><li>Garden State Small Business Coalition</li></ul></div>
-        <div><h4 class="text-xl font-semibold mb-2">Notable Individuals</h4><ul class="list-disc pl-6"><li>Former Governor Christine Todd Whitman</li><li>Senator Cory Booker</li><li>Princeton Mayor Mark Freda</li></ul></div>
+        <div><h4 class="text-xl font-semibold mb-2">Notable Individuals</h4><ul class="list-disc pl-6"><li>Former Governor Christine Todd Whitman</li><li>Princeton Mayor Mark Freda</li></ul></div>
       </div>
     </div>
   </section>
@@ -135,8 +133,3 @@ AP Gov Project
     <a href="https://www.cognitoforms.com/VicKaplanForGovernoe/VicKaplanForGovernorVolunteerSignUpForm" target="_blank" class="ml-4 border border-gray-900 px-6 py-3 rounded-lg font-semibold hover:bg-gray-900 hover:text-primary">Volunteer</a>
   </section>
 
-  <footer class="bg-gray-900 text-white py-6 text-center text-sm">
-    <p>© 2025 Vic Kaplan for Governor. All Rights Reserved.</p>
-  </footer>
-</body>
-</html>
