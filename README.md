@@ -3,13 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vic Kaplan for Governor of New Jersey</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    .bg-primary { background-color: #FFD700; }
-    .text-primary { color: #FFD700; }
-    .hover\:bg-primary-dark:hover { background-color: #E6C200; }
-  </style>
 </head>
 <body class="bg-gray-50 text-gray-900 font-sans">
   <header class="bg-primary text-gray-900 py-4 shadow-lg">
